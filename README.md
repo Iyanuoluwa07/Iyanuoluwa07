@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Ogundele Iyanuoluwa
+- 👋 Hi, I’m @Ogundele Iyanuoluwa, a graduate of Computer with Electronics
 - 👀 I’m interested in Python, IoT, Robotics, Automation, Mechatronics and AI
 - 🌱 I’m currently learning Python and Arduino
 - 💞️ I’m looking to collaborate on projects that will be great benefits to mankind
